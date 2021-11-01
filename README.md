@@ -8,9 +8,11 @@
 - 👯 I’m looking to collaborate on research projects
 - ⚡ Fun fact: I laugh about almost everything 😄
 
-# Connect with me: 
+### Connect with me: 
 
 [<img align="left" alt="https://www.youtube.com/c/AmandaLemette" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
+
+[![IMAGE ALT TEXT HERE](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/c/AmandaLemette)
 
 
 <!--
