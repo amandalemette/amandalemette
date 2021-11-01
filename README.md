@@ -1,8 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Amanda 
+
+# I'm a professor, wife and swim athlete !! 
+
+- 🔭 I’m currently working on my github
+- 🌱 I’m currently learning machine learning 
+- 💬 I’m currently teaching Python, Process simulation and optimization, Experimental design and Machine learning 
+- 👯 I’m looking to collaborate on research projects
+- ⚡ Fun fact: I laugh about almost everything 😄
 
 # Connect with me: 
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="AmandaLemette | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 
 <!--
