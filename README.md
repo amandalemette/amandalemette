@@ -10,7 +10,7 @@
 
 # Connect with me: 
 
-[<img align="left" alt="https://www.youtube.com/c/AmandaLemette" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][YouTube]
+[<img align="left" alt="https://www.youtube.com/c/AmandaLemette" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
 
 
 <!--
