@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Amanda 
 
-# I'm a professor, daughter, wife and swim athlete !! 
+# I'm a professor and swim athlete !! 
 
 - 🔭 I’m currently working on my github
 - 🌱 I’m currently learning machine learning 
