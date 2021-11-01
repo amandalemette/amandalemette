@@ -16,5 +16,5 @@ alt="IMAGE ALT TEXT HERE" width="22px" border="10" /></a>
 <a href="https://www.instagram.com/prof_amandalemette/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" 
 alt="IMAGE ALT TEXT HERE" width="22px" border="10" /></a>
 
-<a href="https://www.instagram.com/prof_amandalemette/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" 
+<a href="https://www.linkedin.com/in/amanda-lemette-brandão-83280918b/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" 
 alt="IMAGE ALT TEXT HERE" width="22px" border="10" /></a>
