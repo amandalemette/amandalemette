@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[#0A66C2].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/[#0A66C2].svg" />
+
+
+
 <!--
 **amandalemette/amandalemette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
