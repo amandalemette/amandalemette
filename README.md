@@ -12,8 +12,10 @@
 
 [<img align="left" alt="https://www.youtube.com/c/AmandaLemette" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
 
-[<img align="left" width="22px" alt="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"](https://www.youtube.com/c/AmandaLemette)
+[<img align="left" width="22px" [https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg]](https://www.youtube.com/c/AmandaLemette)
 
+<a href="https://www.youtube.com/c/AmandaLemette" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" 
+alt="IMAGE ALT TEXT HERE" width="22px" border="10" /></a>
 
 <!--
 **amandalemette/amandalemette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
