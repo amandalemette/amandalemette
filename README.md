@@ -28,3 +28,6 @@ alt="IMAGE ALT TEXT HERE" width="22px" border="10" /></a> &nbsp; <a href="https:
 alt="IMAGE ALT TEXT HERE" width="22px" border="10" /></a>
 
 ### Languages and Tools:
+- <img align="left" alt="Python" width="22px" src="https://github.com/amandalemette/amandalemette/blob/e74cf6a3c0570675d8c1dba53c1a04184dfbf98b/Images/python.png" />  **Python**
+- <img align="left" alt="MATLAB" width="22px" src="https://github.com/amandalemette/amandalemette/blob/e74cf6a3c0570675d8c1dba53c1a04184dfbf98b/Images/matlab.png" />  **MATLAB**
+- 
