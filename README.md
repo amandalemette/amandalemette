@@ -40,3 +40,7 @@ alt="IMAGE ALT TEXT HERE" width="22px" border="10" /></a>
 - <img align="left" alt="Python" width="22px" src="https://github.com/amandalemette/amandalemette/blob/3f9166410ffc9e4475cdda1c4e6ee8d51888dd6c/Images/githubdesk.png" />  **GitHub Desktop**
 - <img align="left" alt="Python" width="22px" src="https://github.com/amandalemette/amandalemette/blob/c2b56cba7a7e1ff5adda3e614223221ad1830d60/Images/latexlogo.png" />  **Latex**
 - <img align="left" alt="Python" width="22px" src="https://github.com/amandalemette/amandalemette/blob/ff341945f6b21dfddcd98290a9c7971a00c16492/Images/overleaf.png" />  **Overleaf**
+- <img align="left" alt="Python" width="22px" src="https://github.com/amandalemette/amandalemette/blob/12d0bce373286c4c125284ef0c13493481fa508f/Images/Statistica.png" />  **STATISTICA**
+- <img align="left" alt="Python" width="22px" src="https://github.com/amandalemette/amandalemette/blob/bbe406bddd6859bda34482a4cb1fec33bdd9b7ca/Images/hysys.png" />  **Aspen Hysys**
+- <img align="left" alt="Python" width="22px" src="https://github.com/amandalemette/amandalemette/blob/602e1b84eb23d07820f1db155ae69cce22fa0126/Images/AspenPlus.png" />  **Aspen Plus**
+- <img align="left" alt="Python" width="22px" src="https://github.com/amandalemette/amandalemette/blob/74bdec2b6d1907e3ae70956af064d5c3e27e5102/Images/DWSIM_icon.png" />  **DWSIM**
