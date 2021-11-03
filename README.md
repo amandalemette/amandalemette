@@ -22,6 +22,8 @@ alt="IMAGE ALT TEXT HERE" width="22px" border="10" /></a>
 
 ### My curriculum:
 <a href="http://lattes.cnpq.br/5417244739608507" target="_blank"><img src="https://github.com/amandalemette/amandalemette/blob/0a1ca34b56fe8273d3b139f35e9cf29e31195cf2/Images/lattes.png" 
+alt="IMAGE ALT TEXT HERE" width="22px" border="10" /></a> &nbsp; <a href="https://orcid.org/
+0000-0001-7602-8980" target="_blank"><img src="https://github.com/amandalemette/amandalemette/blob/e9e8c0217c39ed0c0f92a8208bbfaeed9bfac3f4/Images/orcid.png" 
 alt="IMAGE ALT TEXT HERE" width="22px" border="10" /></a>
 
 ### Languages and Tools:
