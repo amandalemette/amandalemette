@@ -30,4 +30,4 @@ alt="IMAGE ALT TEXT HERE" width="22px" border="10" /></a>
 ### Languages and Tools:
 - <img align="left" alt="Python" width="25px" src="https://github.com/amandalemette/amandalemette/blob/e74cf6a3c0570675d8c1dba53c1a04184dfbf98b/Images/python.png" />  **Python**
 - <img align="left" alt="MATLAB" width="25px" src="https://github.com/amandalemette/amandalemette/blob/e74cf6a3c0570675d8c1dba53c1a04184dfbf98b/Images/matlab.png" />  **MATLAB**
-- 
+- <img align="left" alt="Python" width="25px" src="https://github.com/amandalemette/amandalemette/blob/9993226850a3c801292929aadccba68b4ca10919/Images/colab.png" />  **Google Colaboratory**
