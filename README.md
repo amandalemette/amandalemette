@@ -33,7 +33,7 @@ alt="IMAGE ALT TEXT HERE" width="22px" border="10" /></a>
 - <img align="left" alt="Python" width="22px" src="https://github.com/amandalemette/amandalemette/blob/3ed71e496929d6a9afbbb6912c7abfbe44b00f3b/Images/R.png" />  **R**
 - <img align="left" alt="Python" width="22px" src="https://github.com/amandalemette/amandalemette/blob/9993226850a3c801292929aadccba68b4ca10919/Images/colab.png" />  **Google Colaboratory**
 - <img align="left" alt="Python" width="22px" src="https://github.com/amandalemette/amandalemette/blob/6ed023a3cf43bcb5f0b67248bece1cb1fe90f2e6/Images/jupyterlogo.png" />  **Jupyter Notebook**
-- <img align="left" alt="Python" width="22px" src="https://github.com/amandalemette/amandalemette/blob/d405360ec812e9beed6a8cf176985f5acceb0d6e/Images/spyderlogo.png" />  **Spyder**
+- <img align="left" alt="Python" width="21px" src="https://github.com/amandalemette/amandalemette/blob/d405360ec812e9beed6a8cf176985f5acceb0d6e/Images/spyderlogo.png" />  **Spyder**
 - <img align="left" alt="Python" width="22px" src="https://github.com/amandalemette/amandalemette/blob/8415f027ae18be1c00caa7bb7fb14ff2e442c19d/Images/vsc.png" />  **Visual Studio Code**
 - <img align="left" alt="Python" width="22px" src="https://github.com/amandalemette/amandalemette/blob/bf51180b955de5fd5c848adb20325a5c1698a3f2/Images/gitlogopng.png" />  **Git**
 - <img align="left" alt="Python" width="22px" src="https://github.com/amandalemette/amandalemette/blob/7e0b7ed415a05ea96fe0fe701df48007d050343b/Images/github.svg" />  **GitHub**
