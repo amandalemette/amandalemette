@@ -3,7 +3,7 @@
 # I'm a professor and swim athlete !! 
 
 - 🔭 I’m currently working on my github
-- 🌱 I’m currently learning machine learning 
+- 🌱 I’m currently studying 
 - 💬 I’m currently teaching Python, Process simulation and optimization, Experimental design and Machine learning 
 - 👯 I’m looking to collaborate on research projects
 - ⚡ Fun fact: I laugh about almost everything 😄
