@@ -13,6 +13,7 @@
 <a href="https://www.youtube.com/c/AmandaLemette" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" 
 alt="IMAGE ALT TEXT HERE" width="22px" border="10" /></a> &nbsp; <a href="https://www.instagram.com/prof_amandalemette/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg"  
 alt="IMAGE ALT TEXT HERE" width="22px" border="10" /></a> &nbsp;  <a href="https://www.linkedin.com/in/amanda-lemette-brandão-83280918b/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" 
+alt="IMAGE ALT TEXT HERE" width="22px" border="10" /></a> &nbsp;  <a href="https://www.researchgate.net/profile/Amanda-Brandao" target="_blank"><img src="https://github.com/amandalemette/amandalemette/blob/a9c3ab656ef1e23ff3d35ace57690d3cacbc135d/Images/researchgate-3628433-3031593.png" 
 alt="IMAGE ALT TEXT HERE" width="22px" border="10" /></a>
 
 ### Where I work:
