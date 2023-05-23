@@ -4,9 +4,11 @@
 
 - 🔭 I’m currently working on my github
 - 🌱 I’m currently studying 
-- 💬 I’m currently teaching Python, Process simulation and optimization, Experimental design and Machine learning 
+- 💬 I’m currently teaching Python, Data analysis, Machine Learning, Process simulation and optimization
 - 👯 I’m looking to collaborate on research projects
 - ⚡ Fun fact: I laugh about almost everything 😄
+
+- 🎤 **Let's talk about Data Science???** 
 
 ### Connect with me: 
 
